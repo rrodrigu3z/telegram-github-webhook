@@ -1,0 +1,1 @@
+This is a sample GitHub Web hook for Telegram Messenger.
